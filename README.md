@@ -33,7 +33,7 @@ subbind as addon get binding list of a substance
 ![alt text](https://lh3.googleusercontent.com/dYaqsJstC3uM10k_cfl5_djlAkiMb2B9knUkuKcm2QNMY68qibnu5QYpCY2r-K21Sfqr9YJtpKBT5T6XtkCLXU68xg=w640-h400-e365-rj-sc0x00ffffff "Hover Text")
 
 
-you click send button
+you click send button  
 ![alt text](./send.PNG "Hover Text")
 
 a node.js software (we are developing rightnow) should be lestning on port 80, getting data as restful API (restful.js)
