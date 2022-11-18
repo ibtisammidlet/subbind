@@ -1,0 +1,67 @@
+Manifest-Version: 1.0
+
+Name: background.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: +DIwHLHa6qQCv6NarCTAm9sLT5s=
+SHA256-Digest: GVCVkBLDJW33vQrh8vhiGkkJvb0LakbGfr0Ev46lzKg=
+
+Name: change log.txt
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: xMZqOde3A0T8evArZdjv0YgxrNU=
+SHA256-Digest: pLmJ9c8NG9Dz1hYUG0VLucq/fp0T8/npCZ2zl2Zd6TI=
+
+Name: jquery.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 5JJRlvb0RPpYkVQg+82A+QnGjSg=
+SHA256-Digest: BJeo0qm959uMBGb65z40ejJYGSgR7REI4+CW1fNKwOg=
+
+Name: manifest.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: bz8qL5zMhdsFyzM5dkE5qDoaKSA=
+SHA256-Digest: eJGqKnDJ/WP3sPS2QpCXrxsy4ARZrKHBGNuRiBJAPNw=
+
+Name: options.html
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: /qe6b5HUHN3L8d+voQpdmeTAp68=
+SHA256-Digest: 4lLgO01fbT3797RQ17LznNgTtaf7YutHK3FOTsJQVV4=
+
+Name: options.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: tH1qmv2ZWSeUp3O2ZRq9fxf7Ajs=
+SHA256-Digest: +Jw4DuoZaEWiISYoOnxXtZmqoH+P8zpeXB2zdSWzOfM=
+
+Name: script.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 5u1ZKWlzfsABG3iAnLQ23jmohT0=
+SHA256-Digest: CnJ75VSJo0sqvjsHFoxX0AO+3foVQFr8XIG4TqTHBtk=
+
+Name: icons/logo-gray.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: RHGRYhhQeZFVY1EBaZpakqn2bSE=
+SHA256-Digest: v8XBvM4b1BT5wc+Ox9ysRyP4Wu3VJYAqzkHMNLewYAs=
+
+Name: icons/logo.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: IABvOQUqMOffZbKS9gZu5AYKk1M=
+SHA256-Digest: 2A4A+dwNeQDjjbm+PYh5NtQ4QKFmovuaka987PnQOk8=
+
+Name: images/setting configurable percentage.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 6nuJOmE1aAoXNzMhLDxNPtptRWA=
+SHA256-Digest: HscQUvuLyrE8SQhA7PGpW9jxhBHvIHIOBg/zvZHPvdY=
+
+Name: images/setting youtube id.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: iFOBEmVunE0t5PJEoQRI+MovFMY=
+SHA256-Digest: 3VgeSsjUgvPlP6JDa5O1GyodQBTEDqSUdUMS7Msu8uI=
+
+Name: META-INF/cose.manifest
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: JMntDI7+0k+fN3Dq4kPN0VHntwE=
+SHA256-Digest: OtlEaVEaGYylSSkmDcdYsZ/JcvwesikhFZEUtp4/dJY=
+
+Name: META-INF/cose.sig
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: GjBDZgwWFjjChQh+DKNb1n/CTvk=
+SHA256-Digest: 3Et7OKSSnrVSMEPXg9CwFb6I++2ULmS0UuT7vDk/7tg=
+

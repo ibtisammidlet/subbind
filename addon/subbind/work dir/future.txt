@@ -1,0 +1,16 @@
+-convert scientific numbers to normal
+-remove additions text keep nM
+-setting efficacy
+-delete non human study if human study is available for specific receptor
+-add efficacy in ki from IC/EC50
+-deleting other value if ki available
+-table sorting
+- fetch all data instead of 50 everytime
+-automatically detect agonist/antagonist
+-give alert when data was not fully loaded
+
+
+note: because bindingdb.org use many names for the same target like
+Norepinephrine transporter
+Sodium-dependent noradrenaline transporter 
+the addon will try to delete non human study if human study is available for specific receptor but it can't delete all of them, so you need to do it in excel, the function will just make it easier

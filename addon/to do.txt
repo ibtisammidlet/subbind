@@ -1,0 +1,5 @@
+when result less then 50 it will not show delete none human study .. fix it ......done
+switch to https auto ...done
+auto sort by ki nm
+if ki nm available remove others
+option to remove value with selectivity less then 5
