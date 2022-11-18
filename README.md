@@ -33,7 +33,7 @@ subbind as addon get binding list of a substance
 
 
 you click send button  
-![alt text](./send.PNG "Hover Text")
+![alt text](src/send.PNG "Hover Text")
 
 a node.js software (we are developing rightnow) should be lestning on port 80, getting data as restful API (restful.js)
 
