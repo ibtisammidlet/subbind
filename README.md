@@ -16,16 +16,15 @@ MIT, but apple logic as admin, and expected to buy later, and can be enforced, i
 ---------------------------
 ## LIB USED:  
 
-I use js/node
-Subbind add-on the catch data from bindingdb.org
-Axios as restful api 
-sqlite3 as db
+I use js/node  
+Subbind add-on the catch data from bindingdb.org  
+Axios as restful api   
+sqlite3 as db  
 
+Every js file has function to do like visualiser so can be sub upgraded later  
 
-Every js file has function to do like visualiser so can be sub upgraded later
-
-Bulma as CSS library
-Express.js as web server
+Bulma as CSS library  
+Express.js as web server  
 
 ---------------------------
 ## THE INSTALATION GRAPH:  
