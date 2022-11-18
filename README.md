@@ -13,3 +13,4 @@ now need to do:
 specification: you choose receptors you want to interact with, and the tool search every substance combination it have, to give the best, based on selectivity, affordability (OTC, FDA approved or RC)
 
 MIT, but apple logic as admin, and expected to buy later, and can be enforced, i say something doesn't mean ill do it
+ 
