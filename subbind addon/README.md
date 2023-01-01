@@ -1,3 +1,4 @@
--myrcene Ki OR IC50 OR EC50 to google
--auto scihub switch
--selectivity.
+aiming: 
+-myrcene Ki OR IC50 OR EC50 to google 
+-auto scihub switch 
+-selectivity. 
